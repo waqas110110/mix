@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:0, Tv Corgol's Creations Project
-Actualizado 23 Abril 2020
-
 #EXTINF:0 logo=noimage.png" group-title="GSE NO GROUP  , #0
 http://sputnikbcn.duckdns.org:8001/1:0:1:7478:3F0:1:C00000:0:0:0:
 #EXTINF:0 logo=noimage.png" group-title="GSE NO GROUP  , #V Vamos
